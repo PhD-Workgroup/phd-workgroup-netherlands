@@ -19,3 +19,5 @@ On the 25th of October
 	2. Arina Kudriavtseva (Leiden University) - [Measuring Software Security](../Slides/2023%20October/Measuring%20software%20security%20-%20Aruina%20Kudriavtseva.pdf)
     3. Daniel Ostkamp (Radboud University) - [Recommendations for the European Digital Identity: analyzing privacy protection measures of notified eID schemes](../Slides/2023%20October/RECOMMENDATIONS%20FOR%20THE%20EUROPEAN%20DIGITAL%20IDENTITY%20-%20Daniel%20Ostkamp.pdf)
 - 15.00 – 16.00: Coffee
+
+![alt text](../Photos/2023-October.jpeg)
