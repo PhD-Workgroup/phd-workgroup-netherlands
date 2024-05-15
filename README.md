@@ -6,19 +6,20 @@ If you're interested in the world of Computer Security and want to learn about t
 
 # Next meeting
 
-- **Where**: Leiden University - Gorlaeus Gebouw, room TBA 
-- **When**: On the 30th of April 
-- **Program**: [here](./Meetings/2024-April.md)
+- **Where**: Utrecht University 
+- **When**: November 2024
+- **Program**: TBA
 
 ## Past meetings
 
 Date| University| Program|
 ---|----|----|
+April 2024| Leiden University | [here](./Meetings/2024-April.md)|
 October 2023| Radboud University | [here](./Meetings/2023-October.md)|
 
 ## Contacts
 
-If you want to register for the next meeting, or you have cool ideas to share, you can contact
+If you want to register for the next meeting, or you have cool ideas to share, you can contact:
 - Cristian Daniele: cristian.daniele@ru.nl
 - Arina Kudriavtseva: a.kudriavtseva@liacs.leidenuniv.nl
 
