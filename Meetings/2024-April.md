@@ -18,7 +18,7 @@ On the 30th of April
 -	14.00 – 15.30: Talks
 	1. Shuang Sun(Leiden University): [MPC in the processing model](../Slides/2024%20April/MPC%20in%20the%20Preprocessing%20Model.pdf)
 	2. Pratham Ajmera (Tilburg University)
-	3. Lisa Rooij(Tilburg University): The paradigm shift in patching regulation - upcoming EU rules for cybersecurity patching
+	3. Lisa Rooij(Tilburg University): [The paradigm shift in patching regulation - upcoming EU rules for cybersecurity patching](../Slides/2024%20April/The%20paradigm%20shift%20in%20patching%20regulations.pdf)
 	4. Stefanos Koffas (Delft University): Backdoor Attacks in Speech Recognition
 	5. Edzo Botjes (Open University): [Creating a business value from cyber resilience. Moving towards antifragility through organizational learning](../Slides/2024%20April/Cyber%20Resilience.pdf)
 -	15.30 – 16.30: Drinks
