@@ -6,14 +6,16 @@ If you're interested in the world of Computer Security and want to learn about t
 
 # Next meeting
 
-- **Where**: Utrecht University 
-- **When**: November 2024
+- **Where**: Minnaert building, Utrecht University 
+- **When**: 27th November 2024
 - **Program**: TBA
+- **Free registration (to attend/present)**: [here](https://forms.gle/7isT6uFgJ7y1JNvk9)
 
 ## Past meetings
 
 Date| University| Program|
 ---|----|----|
+November 2024| Utrecht University | [here](./Meetings/2024-November.md)|
 April 2024| Leiden University | [here](./Meetings/2024-April.md)|
 October 2023| Radboud University | [here](./Meetings/2023-October.md)|
 
