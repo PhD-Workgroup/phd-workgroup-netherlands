@@ -3,7 +3,16 @@
 withing IS it appears to be common to use Design Science research.
 
 ## What is Design Science?
-...
+```
+Design science methods are procedures that feature methods for building and evaluating novel artefacts like new models, methods, and systems as the outcome of a research process. Design science methods are characterised by an emphasis on the construction of the artefact and demonstration of its utility in solving an organisational problem (a focus on “artefacts”). - (Recker, 2021)
+```
+
+
+```
+Design science may appear to be very similar to design, as both focus on the development of artefacts. Both of them also aim at novelty, i.e. they are intended to produce or investigate original artefacts that differ from existing ones. However, their purposes are different with respect to their generalisability and their contribution to knowledge. While design is a process for developing a working solution to a problem that may only be relevant to a single actor, design science is intended to produce and communicate knowledge that is of general interest. Results from design work are sometimes relevant only for a local practice, i.e. a practice in which just one single individual, group, or organisation engages. In contrast, design science produces results that are relevant for a global practice, i.e. a community of local practices, and for the research community (Johannesson & Perjons, 2014).
+
+The different purposes of design and design science give rise to three additional requirements on design science research. Firstly, the purpose of creating new knowledge of general interest requires design science projects to make use of rigorous research methods. Secondly, the knowledge produced has to be related to an already existing knowledge base, in order to ensure that proposed results are both well founded and original. Thirdly, the new results should be communicated to both practitioners and researchers (Johannesson & Perjons, 2014).
+```
 
 ## The goal of this page
 Collect valuable papers, books and courses on DSR.
