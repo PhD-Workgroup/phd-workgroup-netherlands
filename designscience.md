@@ -100,3 +100,7 @@ It focuses on planning and conducting design science research on Ph.D. level.
 3. '(2) five packages with together 16 to 20 papers (depending on the number of participants) where
 each participant has to choose one paper and presents it in ten minutes in class:' [Dropbox Link](https://www.dropbox.com/sh/s18flh3fh54rj39/AABThFpLl7PR5T-aqZmUtFwJa?dl=0)
 
+* ONLINE, central: six half days for lectures, panels / presentations, feedback / coaching sessions March 03 – March 14, 2025
+* ONLINE, decentral: ca. five half days for group work March 03 – March 14, 2025
+* OFFLINE, decentral: ca. seven days for reading and preparation between mid February and March 13, 2025
+
