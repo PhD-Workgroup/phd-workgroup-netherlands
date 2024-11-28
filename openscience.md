@@ -22,5 +22,5 @@ Overleaf usage is free for normal usage.
 Overleaf supports Git integration when you pay.
 
 ## Where can I find the document?
-[Open Research Infrastructure - Overleaf - read link]((https://www.overleaf.com/read/pptmtmjbmsxw#5325f4)
-[Open Research Infrastructure - Overleaf - write link](https://www.overleaf.com/8828742191vfndwfvwmxkh#a388df)
+* [Open Research Infrastructure - Overleaf - read link](https://www.overleaf.com/read/pptmtmjbmsxw#5325f4)
+* [Open Research Infrastructure - Overleaf - write link](https://www.overleaf.com/8828742191vfndwfvwmxkh#a388df)
