@@ -15,9 +15,10 @@ If you're interested in the world of Computer Security and want to learn about t
 
 Date| University| Program|
 ---|----|----|
-November 2024| Utrecht University | [here](./Meetings/2024-November.md)|
-April 2024| Leiden University | [here](./Meetings/2024-April.md)|
-October 2023| Radboud University | [here](./Meetings/2023-October.md)|
+September 2026 | Leiden University | [here](./Meetings/2026-September.md) |
+November 2024 | Utrecht University | [here](./Meetings/2024-November.md) |
+April 2024 | Leiden University | [here](./Meetings/2024-April.md) |
+October 2023 | Radboud University | [here](./Meetings/2023-October.md) |
 
 ## Contacts
 
