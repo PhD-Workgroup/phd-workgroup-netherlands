@@ -6,10 +6,10 @@ If you're interested in the world of Computer Security and want to learn about t
 
 # Next PhD Workshop
 
-- **Where**: Minnaert building, Utrecht University 
-- **When**: 27th November 2024
-- **Program**: TBA
-- **Free registration (to attend/present)**: [here](https://forms.gle/7isT6uFgJ7y1JNvk9)
+- **Where**: Gorlaeus Gebouw, room BW.0.18, Leiden University
+- **When**: 2nd September, 2026
+- **Program**: TBD
+- **Free registration (to attend/present)**: [here](https://docs.google.com/forms/d/e/1FAIpQLSdnkkHdFJuch1-THGNI9gD3m0qjWURdwVU6GcwFhKoO5_JZdw/viewform?usp=publish-editor)
 
 ## Past PhD Workshops
 
@@ -23,7 +23,7 @@ October 2023| Radboud University | [here](./Meetings/2023-October.md)|
 
 If you want to register for the next meeting, or you have cool ideas to share, you can contact:
 - Cristian Daniele: cristian.daniele@ru.nl
-- Arina Kudriavtseva: a.kudriavtseva@liacs.leidenuniv.nl
+- Shuang Sun: s.sun@liacs.leidenuniv.nl
 
 ## Sponsors
  ACCSS  | INTERSCT  |
