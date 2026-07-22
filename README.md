@@ -8,7 +8,7 @@ If you're interested in the world of Computer Security and want to learn about t
 
 - **Where**: Gorlaeus Gebouw, room BW.0.18, Leiden University
 - **When**: 2nd September, 2026
-- **Program**: TBD
+- **Program**: [here](./Meetings/2026-September.md)
 - **Free registration (to attend/present)**: [here](https://docs.google.com/forms/d/e/1FAIpQLSdnkkHdFJuch1-THGNI9gD3m0qjWURdwVU6GcwFhKoO5_JZdw/viewform?usp=publish-editor)
 
 ## Past PhD Workshops
