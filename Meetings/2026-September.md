@@ -24,10 +24,10 @@ The registration is free and includes coffee breaks, lunch, and drinks.
 | 10:30 - 11:00  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
 | 11:00 - 11:30  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
 | 11:30 - 12:00  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
-| 12:00 - 12:30  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
-| 12:30 - 13:30  | Lunch |
+| 12:00 - 13:00  | Lunch |
+| 13:00 - 13:30  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
 | 13:30 - 14:00  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
-| 14:30 - 15:00  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
+| 14:30 - 15:00  | Coffee Break   |
 | 15:00 - 15:30  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
 | 15:30 - 16:00  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
 | 16:00 - 16:30  | Goodbye Drinks |
