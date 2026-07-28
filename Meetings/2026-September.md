@@ -1,5 +1,4 @@
-![Workgroup Banner](/Logos/banner1.jpg)
-
+<!--![Workgroup Banner](/Logos/banner1.jpg)-->
 ## Date
 
 **The 5th PhD Workgroup Netherlands** will take place in Leiden on September 2nd, 2026.
