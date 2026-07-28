@@ -1,4 +1,4 @@
-![Workgroup Banner](/Logos/accss.png)
+![Workgroup Banner](/Logos/banner1.jpg)
 
 ## Date
 
@@ -6,7 +6,7 @@
 
 ## Venue
 
-The workgroup will be held in Room BW.0.18 of Gorlaeus Gebouw, Leiden University.
+The workgroup will be held in **Room BW.0.18 of Gorlaeus Gebouw**, Leiden University.
 
 [Open in Google Maps](https://maps.app.goo.gl/CYcCMd47YxwpY8NCA)
 
