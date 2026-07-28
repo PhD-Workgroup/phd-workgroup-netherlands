@@ -1,6 +1,6 @@
 ## Date
 
-**The 6th PhD Workgroup Netherlands** will take place in Leiden on September 2nd, 2026.
+**The 5th PhD Workgroup Netherlands** will take place in Leiden on September 2nd, 2026.
 
 ## Venue
 
