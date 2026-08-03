@@ -1,0 +1,61 @@
+/* Load custom fonts */
+@font-face {
+  font-family: 'CascadiaCode';
+  src: url('../../Fonts/CascadiaCode.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CascadiaCodeLight';
+  src: url('../../Fonts/CascadiaCodeLight.ttf') format('truetype');
+}
+
+/* Center main body */
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Banner section */
+.banner {
+  width: 100%;
+  height: 260px;
+  background-image: url('../../Logos/banner1.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.banner-title {
+  font-family: 'CascadiaCode', monospace;
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.banner-desc {
+  font-family: 'CascadiaCodeLight', monospace;
+  font-size: 20px;
+  opacity: 0.9;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f5f5f5;
+}
