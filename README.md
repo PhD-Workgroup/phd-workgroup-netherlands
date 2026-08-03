@@ -26,6 +26,13 @@ If you want to register for the next meeting, or you have cool ideas to share, y
 - Shuang Sun: s.sun@liacs.leidenuniv.nl
 
 ## Sponsors
- ACCSS  | INTERSCT  |
+<!-- ACCSS  | INTERSCT  |
 ----|----|
 ![](./Logos/accss.png)  |  ![](./Logos/intersct.png)
+-->
+
+<p align="center">
+  <img src="./Logos/accss.png" width="380"/>
+  <img src="./Logos/intersct.png" width="500"/>
+</p>
+
