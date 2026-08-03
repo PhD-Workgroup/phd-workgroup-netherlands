@@ -1,12 +1,7 @@
 /* Load custom fonts */
 @font-face {
   font-family: 'CascadiaCode';
-  src: url('../../Fonts/CascadiaCode.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'CascadiaCodeLight';
-  src: url('../../Fonts/CascadiaCodeLight.ttf') format('truetype');
+  src: url('CascadiaCode.ttf') format('truetype');
 }
 
 /* Center main body */
