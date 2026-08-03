@@ -15,7 +15,7 @@ body {
 .banner {
   width: 100%;
   height: 260px;
-  background-image: url('../../Logos/banner1.jpg');
+  background-image: url('../Logos/banner1.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
