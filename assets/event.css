@@ -4,13 +4,6 @@
   src: url('CascadiaCode.ttf') format('truetype');
 }
 
-/* Center main body */
-body {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
 /* Banner section */
 .banner {
   width: 100%;
@@ -23,25 +16,25 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: white;
 }
 
 .banner-title {
   font-family: 'CascadiaCode', monospace;
-  font-size: 30px;
+  font-size: 40px;
   color: #333333;
 }
 
 .banner-desc {
   font-family: 'CascadiaCode', monospace;
-  font-size: 20px;
-  font-weight: 200;
+  font-size: 30px;
+  font-weight: 300;
   opacity: 0.9;
   margin-top: 20px;
+  color: #333333;
 }
 
 .content {
-  max-width: 900px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 20px;
 }
