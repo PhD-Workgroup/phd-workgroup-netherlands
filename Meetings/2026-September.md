@@ -20,17 +20,16 @@ The registration is free and includes coffee breaks, lunch, and drinks.
 | Time |  |
 |---|---|
 | 10:00 - 10:30  | Welcome coffee |
-| 10:30 - 11:00  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
-| 11:00 - 11:30  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
+| 10:30 - 11:00  | Talk: **A study of cursorrules files in open source repositories**<br/>Speaker: Shuang Sun (Leiden University)<br/>Brief Introduction  ...   |
+| 11:00 - 11:30  | Talk: **Can LLMs produce an infinite poem?**<br/>Speaker: Vincent Cellucci (Leiden University)<br/>LIACS external PhD candidate and poet Vincent Cellucci will contextualize and perform from his recent project, resurrection (2024-2026), which has incorporated and tested the limits of LLMs. He hopes to collect some human-generated couplets from the audience!  |
 | 11:30 - 12:00  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
 | 12:00 - 13:00  | Lunch |
-| 13:00 - 13:30  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
+| 13:00 - 13:30  | Talk: **TBD**<br/>Speaker: Cristian Daniele (TNO)<br/>Brief Introduction  ...   |
 | 13:30 - 14:00  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
 | 14:30 - 15:00  | Coffee Break   |
 | 15:00 - 15:30  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
 | 15:30 - 16:00  | Talk: **TBD** (University) - **Topic** Brief Introduction  ...   |
 | 16:00 - 16:30  | Goodbye Drinks |
-
 
 ## Contact Us
 
